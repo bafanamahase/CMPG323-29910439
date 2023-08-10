@@ -22,3 +22,4 @@ In each project, the .gitignore will be used to hide some sensitive files from t
 #### Labels chart
 ![Screenshot (42)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/f8d63601-c39c-4705-a68b-940382589837)
 #### Status chart
+![Screenshot (45)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/5c965b03-0213-4fb5-9105-dbe22b738831)
