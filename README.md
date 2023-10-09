@@ -18,8 +18,11 @@ The branching strategy that will be employed in each project is that I am gonna 
 In each project, the .gitignore will be used to hide some sensitive files from the public, even though the repositories themselves will  be public.
 # Charts
 #### Sprint chart
-![Screenshot (43)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/79c695a1-9265-4d97-b3f0-234769513525)
+![Screenshot (95)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/b78e021f-aead-427c-a99e-4233728bd6c3)
+
 #### Labels chart
-![Screenshot (42)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/f8d63601-c39c-4705-a68b-940382589837)
+![Screenshot (94)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/b22050cf-b760-4ffd-8ab4-991136405804)
+
 #### Status chart
-![Screenshot (45)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/5c965b03-0213-4fb5-9105-dbe22b738831)
+![Screenshot (93)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/79328131-bdf7-4c06-8c7e-9bd074f27f42)
+
