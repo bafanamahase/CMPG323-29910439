@@ -4,9 +4,7 @@
 
 #### Project number: 3 (Repository name: Patterns & Standards)
 
-#### Project number: 4 (Repository name: Testing & RPA)
-
-#### Project number: 5 (Repository name: Reporting & Monitoring)
+#### Project number: 4 (Repository name: Reporting & Monitoring)
 
 # Projects & Repositories
 ![Screenshot (44)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/7c46f721-670d-4fc2-b37d-2c4507556223)
