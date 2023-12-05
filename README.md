@@ -8,8 +8,6 @@
 
 #### Project number: 5 (Repository name: Reporting & Monitoring)
 
-#### Project number: 6 (Repository name: Exam(POE))
-
 # Projects & Repositories
 ![Screenshot (44)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/7c46f721-670d-4fc2-b37d-2c4507556223)
 # Branching Strategy
