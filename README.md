@@ -1,4 +1,4 @@
-# CMPG323 Overview-29910439
+# Overview
 ## The following repositories willl be created for all the remaining projects throughout the semester:
 #### Project number: 2 (Repository name: API Development)
 
