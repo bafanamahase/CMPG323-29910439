@@ -5,9 +5,6 @@
 #### Project number: 3 (Repository name: Patterns & Standards)
 
 #### Project number: 4 (Repository name: Reporting & Monitoring)
-
-# Projects & Repositories
-![Screenshot (44)](https://github.com/bafanamahase/CMPG323-29910439/assets/88552699/7c46f721-670d-4fc2-b37d-2c4507556223)
 # Branching Strategy
 The branching strategy that will be employed in each project is that I am gonna be working on the main branch on every project. If a bug arises, I will then create a development branch to fix it.
 # .gitignore Usage
